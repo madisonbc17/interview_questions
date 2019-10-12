@@ -1,4 +1,4 @@
-current_assignments = ["source_code_control","Teamwork: personality styles", "random_work_assignment"]
+current_assignments = ["source_code_control","Teamwork: personality styles"]
 finished_assignments = []
 
 for busy_work in current_assignments:
