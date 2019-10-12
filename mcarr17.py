@@ -9,3 +9,6 @@ print("Needing completion:")
 print(current_assignments)
 print("Finished assignments:")
 print(finished_assignments)
+
+assignments_left = len(current_assignments)
+print(str(assignments_left) + " assignments left in the semester")
