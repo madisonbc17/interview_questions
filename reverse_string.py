@@ -19,7 +19,7 @@ def reverse_sentence_complicated(sentence):
 
     #format the sentence, but reversed
     for j in words:
-        if j == words[0]:
+        if final_sentence == "":
             final_sentence = j
         else:
             final_sentence = j + " " + final_sentence
