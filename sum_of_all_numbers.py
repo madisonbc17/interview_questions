@@ -3,8 +3,6 @@
 #while-loop
 #recursion
 
-import time
-
 class sum_of_numbers:
     def __init__(self, list_of_numbers):
         self.number_list = list_of_numbers
